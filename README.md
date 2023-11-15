@@ -1,2 +1,2 @@
 # survey-form-html
-simple survey form in ht
+simple survey form in html
